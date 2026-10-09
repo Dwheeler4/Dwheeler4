@@ -1,6 +1,6 @@
 ## Daniel Wheeler
 
-Computer Science @ UCL. I like low-level systems, algorithms, and measuring things instead of guessing.
+Computer Science @ UCL.
 
 ### Featured work
 
